@@ -1,0 +1,6 @@
+# Extra packages for Chapter 9 (spatial analysis and crime mapping).
+# Install on top of requirements.txt:  pip install -r requirements-spatial.txt
+geopandas>=0.14
+libpysal>=4.9
+esda>=2.5
+shapely>=2.0
